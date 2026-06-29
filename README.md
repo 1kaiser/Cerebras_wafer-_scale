@@ -2,7 +2,7 @@
 
 
 ---
-
+![](https://docs.google.com/videos/d/1N1qbHaFpR4U5Qfd_F79GgiiLLxnhwx3qE4uHPOTuZrg/edit?usp=sharing)
 #  SwarmSearch ERP
 
 ### Wafer-Scale Parallel Multi-Agent Research Browser & Knowledge Graph Visualizer
@@ -25,7 +25,7 @@ SwarmSearch ERP is a next-generation multi-agent autonomous framework engineered
 
 ### 🧵 Concurrent Multi-Orchestration Engine
 
-Traditional multi-agent frameworks stall because agents complete tasks sequentially. SwarmSearch ERP uses a high-concurrency `ThreadPoolExecutor` and optimized regular-expression tokens to split compound tasks (e.g., *"Solve question 9 from chapter 10 AND question 12 from chapter 4"*) instantly. It deploys multiple parent orchestration lines simultaneously, which then dynamically spawn parallel **Swarm Child Agents** to analyze specific targets.
+Traditional multi-agent frameworks stall because agents complete tasks sequentially. SwarmSearch ERP uses a high-concurrency `ThreadPoolExecutor` and optimized regular-expression tokens to split compound tasks (e.g., *"Solve question 9 from chapter 10 AND question 12 from chapter 4"*) instantly. It deploys multiple parent orchestration lines simultaneously, which then dynamically spawn parallel **Swarm   Agents** to analyze specific targets.
 
 ### 💾 Folder-Isolated Long-Term Memory
 
